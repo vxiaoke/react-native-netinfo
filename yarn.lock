@@ -1033,10 +1033,10 @@
     metro-react-native-babel-preset "^0.53.1"
     yargs "^13.2.2"
 
-"@react-native-community/eslint-config@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@react-native-community/eslint-config/-/eslint-config-0.0.4.tgz#d815c42235f22be1a85d9170b0da1c91fc3c74b1"
-  integrity sha512-w6PU8tF6NAazPby08/SHeVwalNW2YP1NEvVnbsqL5k5UIZv+Nq+DmIBu+KK9uYwuDx6zj6H/iH+Qu/VOSlxLWA==
+"@react-native-community/eslint-config@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@react-native-community/eslint-config/-/eslint-config-0.0.5.tgz#584f6493258202a57efc22e7be66966e43832795"
+  integrity sha512-jwO2tnKaTPTLX5XYXMHGEnFdf543SU7jz98/OF5mDH3b7lP+BOaCD+jVfqqHoDRkcqyPlYiR1CgwVGWpi0vMWg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^1.5.0"
     "@typescript-eslint/parser" "^1.5.0"
